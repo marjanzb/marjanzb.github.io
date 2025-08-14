@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Assistant Professor | California Polytechnic State University, SLO 
+subtitle: Assistant Professor | California Polytechnic State University, SLO 
 profile:
   align: right
   image: prof_pic.jpg
