@@ -28,7 +28,7 @@ nav_order: 6
       <td>Partial Differential Equations</td>
       <td>Summer 2021</td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
+    <tr style="background-color: #663399;">
       <td>MATH 100 & 180</td>
       <td>Differential Calculus with Applications to Physical Sciences and Engineering</td>
       <td>Winter 2020</td>
@@ -38,7 +38,7 @@ nav_order: 6
       <td>Differential Equations</td>
       <td>Spring 2019</td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
+    <tr style="background-color: #663399;">
       <td>MATH 105</td>
       <td>Integral Calculus with Applications to Commerce and Social Sciences</td>
       <td>Summer 2019</td>
@@ -48,7 +48,7 @@ nav_order: 6
       <td>Integral Calculus with Applications to Commerce and Social Sciences</td>
       <td>Spring 2018</td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
+    <tr style="background-color: #663399;">
       <td>MATH 180</td>
       <td>Differential Calculus with Physical Applications</td>
       <td>Winter 2017</td>
