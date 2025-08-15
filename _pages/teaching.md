@@ -7,12 +7,52 @@ nav: true
 nav_order: 6
 ---
 ### Department of Mathematics, University of British Columbia
-| Course        | Title                                                                                   | Term          |
-|---------------|-------------------------------------------------------------------------------------------|---------------|
-| MATH 256      | Differential Equations                                                                   | Winter 2022   |
-| MATH 257      | Partial Differential Equations                                                           | Summer 2021   |
-| MATH 100 & 180| Differential Calculus with Applications to Physical Sciences and Engineering             | Winter 2020   |
-| MATH 256      | Differential Equations                                                                   | Spring 2019   |
-| MATH 105      | Integral Calculus with Applications to Commerce and Social Sciences                      | Summer 2019   |
-| MATH 105      | Integral Calculus with Applications to Commerce and Social Sciences                      | Spring 2018   |
-| MATH 180      | Differential Calculus with Physical Applications                                          | Winter 2017   |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Course</th>
+      <th>Title</th>
+      <th>Term</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #663399;">
+      <td>MATH 256</td>
+      <td>Differential Equations</td>
+      <td>Winter 2022</td>
+    </tr>
+    <tr>
+      <td>MATH 257</td>
+      <td>Partial Differential Equations</td>
+      <td>Summer 2021</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td>MATH 100 & 180</td>
+      <td>Differential Calculus with Applications to Physical Sciences and Engineering</td>
+      <td>Winter 2020</td>
+    </tr>
+    <tr>
+      <td>MATH 256</td>
+      <td>Differential Equations</td>
+      <td>Spring 2019</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td>MATH 105</td>
+      <td>Integral Calculus with Applications to Commerce and Social Sciences</td>
+      <td>Summer 2019</td>
+    </tr>
+    <tr>
+      <td>MATH 105</td>
+      <td>Integral Calculus with Applications to Commerce and Social Sciences</td>
+      <td>Spring 2018</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td>MATH 180</td>
+      <td>Differential Calculus with Physical Applications</td>
+      <td>Winter 2017</td>
+    </tr>
+  </tbody>
+</table>
+
