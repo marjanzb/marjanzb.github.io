@@ -191,6 +191,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/dropdown.md
+  - _pages/cv.md
   - _news/announcement_*.md
   - _pages/blog.md
   - _pages/profiles.md
