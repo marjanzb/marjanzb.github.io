@@ -4,9 +4,6 @@ title: About
 permalink: /
 subtitle: Assistant Professor
 
-Mechanical Engineering Department 
-California Polytechnic State University
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -25,5 +22,12 @@ announcements:
 
 
 ---
+
+**Mechanical Engineering Department**  
+California Polytechnic State University
+
+---
+
+Bio
 
 Bio
