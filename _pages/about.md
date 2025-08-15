@@ -2,16 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor
+subtitle: Assistant Professor, Mechanical Engineering Department, California Polytechnic State University
 
-profile:
-align: right
-  image: #prof_pic.jpg
+#profile:
+#align: right
+ # image: prof_pic.jpg
   #image_circular: false # crops the image to make it circular
-  more_info: >
-  Mechanical Engineering Department
-  California Polytechnic State University
-   <p></p>
+ # more_info: >
+  # <p></p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
