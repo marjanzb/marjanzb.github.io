@@ -8,5 +8,5 @@ nav_order: 2
 ---
 
 <p align="center">
-  <img src="prof_pic.jpg" style="max-width: 100%; height: auto;">
+  image: prof_pic.jpg
 </p>
