@@ -6,9 +6,9 @@ description:
 nav: true
 nav_order: 6
 ---
-<h3 style="font-size: 20px; font-family: 'Georgia', serif;">
-  Department of Mechanical Engineering, California Polytechnic State University
-</h3>
+
+### Department of Mechanical Engineering, California Polytechnic State University
+
 
 <table>
   <thead>
