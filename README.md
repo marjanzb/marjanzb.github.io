@@ -4,5 +4,5 @@
 
 
 
-### Research interests, and Courses
+### Research interests, projects and Courses
 
