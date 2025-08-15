@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Assistant Professor </p>
+subtitle: Assistant Professor
 <p>Mechanical Engineering Department</p>
 <p>California Polytechnic State University, SLO </p>
 
