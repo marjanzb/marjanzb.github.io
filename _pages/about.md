@@ -1,9 +1,9 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor
----
+
 Mechanical Engineering Department 
 California Polytechnic State University
 
