@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-Assistant Professor 
+Assistant Professor, 
 Mechanical Engineering Department,
 California Polytechnic State University
 
