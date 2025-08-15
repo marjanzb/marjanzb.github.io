@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-### Department of Mathematics, University of British Columbia
+# Department of Mathematics, University of British Columbia
 
 
 <table>
