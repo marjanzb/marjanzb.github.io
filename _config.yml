@@ -151,7 +151,7 @@ collections:
     output: true
   projects:
     output: true
-    permalink: /projects/1_project
+    permalink: /projects/project1
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
