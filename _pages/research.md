@@ -8,5 +8,5 @@ nav_order: 2
 ---
 
 <p align="center">
-  image: prof_pic.jpg
+  <img src="/assets/img/prof_pic.jpg" alt="Research Image" style="max-width: 90%; height: auto;">
 </p>
