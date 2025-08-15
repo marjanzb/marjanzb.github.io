@@ -5,7 +5,7 @@ permalink: /
 subtitle: Assistant Professor
 ---
 **Mechanical Engineering Department**  
-California Polytechnic State University, SLO
+California Polytechnic State University
 
 profile:
   align: right
