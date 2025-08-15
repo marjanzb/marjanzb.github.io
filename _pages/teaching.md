@@ -25,7 +25,7 @@ nav_order: 6
       <td>Winter 2026</td>
     </tr>
     <tr>
-      <td> </td>
+      <td> TBA </td>
       <td>Computational Methods</td>
       <td>Winter 2026</td>
     </tr>
