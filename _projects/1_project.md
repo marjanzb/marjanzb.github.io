@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MIT
+title: Automotive Painting Using Inkjet Printing Technology
 description: with background image
 img: assets/img/work1.jpeg
 importance: 1
