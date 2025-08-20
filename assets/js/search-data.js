@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-research-interests",
-          title: "Research Interests",
+        },{id: "nav-research-overview",
+          title: "Research Overview",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
@@ -28,15 +28,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-have-joined-the-mechanical-engineering-department-at-california-polytechnic-state-university-as-an-assistant-professor",
+            },},{id: "news-i-have-joined-the-mechanical-engineering-department-at-california-polytechnic-state-university-as-an-assistant-professor",
           title: 'I have joined the Mechanical Engineering Department at California Polytechnic State University as...',
           description: "",
           section: "News",},{id: "projects-automotive-painting-using-inkjet-printing-technology",
