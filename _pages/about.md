@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Assistant Professor</a>, Mechanical Engineering, California Polytechnic State University 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic-marjan-zare.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
 
