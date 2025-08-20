@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mitigating Methane Emissions from Active and Abandoned Gas Wells
-description: a project that redirects to another website
+description: 
 img: assets/img/work3.jpeg
 redirect: https://unsplash.com
 importance: 3
