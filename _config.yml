@@ -205,6 +205,8 @@ exclude:
   - _projects/8_project.md
   - _projects/9_project.md
   - _posts/
+  - _news/announcement_2.md
+  - _news/announcement_3.md
 
   
 keep_files:
