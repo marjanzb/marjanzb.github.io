@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: <a href='#'>Assistant Professor</a>, Mechanical Engineering, California Polytechnic State University 
 profile:
