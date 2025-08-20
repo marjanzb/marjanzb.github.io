@@ -191,14 +191,14 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - dropdown.md
-  - news.md
-  - profiles.md
-  - publications.md
-  - repositories.md
+  - _pages/dropdown.md
+  - _pages/news.md
+  - _pages/profiles.md
+  - _pages/publications.md
+  - _pages/repositories.md
   - blog.md
-  - cv.md
-  - books.md
+  - _pages/cv.md
+  - _pages/books.md
   
 keep_files:
   - CNAME
