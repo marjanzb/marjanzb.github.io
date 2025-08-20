@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mitigating Methane Emissions from Industrial Ponds
-description: a project with a background image and giscus comments
+description: 
 img: assets/img/work2.jpeg
 importance: 2
 category: work
