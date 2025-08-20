@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='#'>Assistant Professor</a>, Mechanical Engineering, California Polytechnic State University 
 profile:
   align: right
   image: prof_pic.jpg
