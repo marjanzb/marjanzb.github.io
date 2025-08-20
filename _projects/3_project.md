@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3 with very long name
+title: Mitigating Methane Emissions from Active and Abandoned Gas Wells
 description: a project that redirects to another website
 img: assets/img/work3.jpeg
 redirect: https://unsplash.com
