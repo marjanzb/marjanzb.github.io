@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 ## Department of Mechanical Engineering, California Polytechnic State University, San Luis Obispo
+- Fluid Mechanics II
+- Computational Methods
 
 ## Department of Mathematics, University of British Columbia, Vancouver, Canada
 - MATH 256, Differential Equations, Winter 2022
