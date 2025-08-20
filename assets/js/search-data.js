@@ -421,7 +421,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-mitigating-methane-emissions-from-active-and-abandoned-gas-wells",
           title: 'Mitigating Methane Emissions from Active and Abandoned Gas Wells',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
