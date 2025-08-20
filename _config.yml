@@ -195,7 +195,10 @@ exclude:
   - news.md
   - profiles.md
   - publications.md
-  -repositories.md
+  - repositories.md
+  - blog.md
+  - cv.md
+  - books.md
   
 keep_files:
   - CNAME
