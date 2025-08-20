@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-automotive-painting-using-inkjet-printing-technology",
           title: 'Automotive Painting Using Inkjet Printing Technology',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-mitigating-methane-emissions-from-industrial-ponds",
