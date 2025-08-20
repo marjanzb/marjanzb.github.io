@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Automotive Painting Using Inkjet Printing Technology
-description: with background image
+description: 
 img: assets/img/work1.jpeg
 importance: 1
 category: work
