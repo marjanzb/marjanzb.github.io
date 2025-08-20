@@ -414,8 +414,8 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-mitigating-methane-emissions-from-industrial-ponds",
+          title: 'Mitigating Methane Emissions from Industrial Ponds',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
