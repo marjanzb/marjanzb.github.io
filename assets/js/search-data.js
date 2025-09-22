@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research-overview",
           title: "Research Overview",
-          description: "A growing collection of your cool projects.",
+          description: "Rheology and Sustainability",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
