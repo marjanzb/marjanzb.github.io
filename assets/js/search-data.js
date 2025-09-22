@@ -46,6 +46,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-mitigating-methane-emissions-from-industrial-ponds",
+          title: 'Mitigating Methane Emissions from Industrial Ponds',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_10/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
