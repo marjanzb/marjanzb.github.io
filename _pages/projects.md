@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research Overview
+title: Rheology and Sustainability
 permalink: /projects/
-description: Rheology and Sustainability
+description: Research Overview
 nav: true
 nav_order: 3
 display_categories: [work, fun]
