@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-research-overview",
-          title: "Research Overview",
-          description: "Rheology and Sustainability",
+        },{id: "nav-rheology-and-sustainability",
+          title: "Rheology and Sustainability",
+          description: "Research Overview",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
