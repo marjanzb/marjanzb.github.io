@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mitigating Methane Emissions from Industrial Ponds
+title: Mitigating Methane Emissions from Active and Abandoned Gas Wells
 description: 
-img: assets/img/work2.jpeg
+img: assets/img/work3.jpeg
 importance: 3
 category: work
 giscus_comments: true
