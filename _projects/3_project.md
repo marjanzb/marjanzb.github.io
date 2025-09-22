@@ -4,7 +4,7 @@ title: Mitigating Methane Emissions from Active and Abandoned Gas Wells
 description: 
 img: assets/img/work3.jpeg
 redirect: https://unsplash.com
-importance: 3
+importance: 10
 category: work
 ---
 
