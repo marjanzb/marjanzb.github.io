@@ -2,7 +2,7 @@
 layout: page
 title: Research Overview
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Rheology and Sustainability
 nav: true
 nav_order: 3
 display_categories: [work, fun]
