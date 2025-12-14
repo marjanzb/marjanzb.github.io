@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mitigating Methane Emissions from Industrial Ponds
+title: Bubbles in complex fluids
 description: 
 img: assets/img/work2.jpeg
 importance: 2
