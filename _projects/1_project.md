@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inkjet printing
+title: Adcanced manufacturing
 description: 
 img: assets/img/work1.jpeg
 importance: 1
