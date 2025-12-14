@@ -1,6 +1,6 @@
----
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/fbde0aa3-9d51-40c4-bf74-c88d0b326c0e" />---
 layout: page
-title: Mitigating Methane Emissions from Active and Abandoned Gas Wells
+title: Oilfield cementing fluid mechanics and well integrity
 description: 
 img: assets/img/work3.jpeg
 importance: 3
