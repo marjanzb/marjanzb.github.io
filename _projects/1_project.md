@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adcanced manufacturing
+title: Advanced manufacturing (3D printing, inkjet printing, bioprinting)
 description: 
 img: assets/img/work1.jpeg
 importance: 1
