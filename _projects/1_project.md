@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Advanced manufacturing
+title: Advanced manufacturing (3D printing)
 description: 
 img: assets/img/work1.jpeg
 importance: 1
