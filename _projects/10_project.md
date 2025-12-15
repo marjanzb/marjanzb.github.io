@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oilfield cementing fluid mechanics and well integrity
+title: Oilfield cementing fluid mechanics &  well integrity
 description: 
 img: assets/img/work3.jpeg
 importance: 3
